@@ -109,7 +109,7 @@ while np.abs(UB-LB)>1e-5 :
     print(UB)
 ############################# CCG END ###########################################
 
-# Some informations
+# Some information
 print("Iteration finished! We found the optimal solution!")
 print("Final Objective:{0}".format(LB))
 print(y[0],y[1],y[2])
